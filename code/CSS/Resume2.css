@@ -1,0 +1,156 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family:sans-serif;
+}
+.container{
+    border: 1px solid gray;
+    width: 75%;
+    height: 1479px;
+    margin-left: 13%;
+    margin-top: 3%;
+    border-radius: 14px;
+    margin-bottom: 3%;;
+}
+.header{
+    height: 280px;
+    background-color: skyblue;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+   
+}
+#corner{
+    width: 25%;
+    height: 40px;
+    border: 1px solid rgb(24, 23, 23);
+    background-color: rgb(24, 23, 23);
+    float: right;
+    border-top-right-radius: 14px;
+    border-bottom-left-radius: 50px;
+}
+#name{
+    float: right;
+    margin-top: 70px;
+    margin-right: 66px;
+}
+#name2{
+    float: right;
+    margin-top: 110px;
+    margin-right: -195px;
+}
+#obj{
+    float:right;
+    width: 55%;
+    height: 75px;
+    margin-right: 57px;
+    margin-top: 12px;
+}
+#img1{
+    margin-left: 34px;
+    border-radius: 50%;
+    margin-top: 25px;
+}
+.body1{
+    height: 1165px;
+    background-color: white;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+.ins{
+    padding-bottom: 30px;
+    width: 50%;
+    margin-left: 329px;
+    padding-left: 46px;
+    height: 450px;
+    
+}
+.inHead{
+    text-transform: uppercase;
+    color:white;
+    border: 2px solid rgb(24, 23, 23);
+    background-color: rgb(24, 23, 23);
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    width: 35%;
+    padding-left: 20px;
+    min-height: 30px;
+    line-height: 30px;
+    margin-left: 350px;
+}
+.com{
+    line-height: 2px;
+}
+.Edu1{
+    padding-left: 380px;
+}
+.side{
+   width: 30%;
+   height: 1460px;
+   border: 2px solid rgb(49, 48, 48);
+   background-color: rgb(49, 48, 48);
+   margin-top: -1430px;
+   margin-left: 50px;
+   border-top-right-radius: 150px;
+   border-top-left-radius: 150px;
+}
+.Contact-Info{
+    margin-top: 20px;
+    
+}
+.cnt{
+    text-transform: uppercase;
+    color: black;
+    border: 2px solid skyblue;
+    background-color:skyblue;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    min-height: 30px;
+    line-height: 30px;
+    padding-left: 30px;
+    width: 50%;
+    margin-left: -2px;
+}
+.CnInfo{
+    color: aliceblue;
+    list-style-type: none;
+    line-height: 25px;
+    margin-top: -3px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.Edu{
+    margin-left: 36px;
+}
+.year{
+    color: white;
+}
+.year1{
+    color: white;
+    margin-top: 29px;
+}
+.Branch{
+    color: white;
+    line-height: 9px;
+    margin-top: -6px;
+}
+.clg{
+    color: white;
+    margin-top: -6px;
+}
+.per{
+    margin-top: -6px;
+    color: white;
+}
+.list-item{
+    margin-top: -4px;
+    color: white;
+    padding-left: 50px;
+    line-height: 25px;
+}
+.list-item1{
+    color: Black;
+    padding-left: 50px;
+    line-height: 25px;
+}
